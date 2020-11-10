@@ -1,3 +1,0 @@
-# food-cost-calculator
-
-Test
